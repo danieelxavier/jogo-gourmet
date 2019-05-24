@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Jogoo Gourmet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jogoo_Gourmet_jar</output-path>
+    <root id="archive" name="Jogoo Gourmet.jar">
+      <element id="module-output" name="Jogoo Gourmet" />
+    </root>
+  </artifact>
+</component>
